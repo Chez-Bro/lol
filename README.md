@@ -1,5 +1,6 @@
 - ***Shell***: A command line program that takes keyboard commands and passes to operating system to carry out.
-***!*** Shell can be used in virtual console (CLI) or in terminal emulator (when using GUI)
+
+***!***Shell can be used in virtual console (CLI) or in terminal emulator (when using GUI)
 
 - ***Bash***: A type of shell program.
 
