@@ -18,8 +18,7 @@
 
 **Metacharacters**: Special characters with specific meanings to the shell and are used to perform various actions:
 
-1. **`$`**:
-    - Used for variable expansion (e.g., `$HOME` to access the home directory).
+- `$`: Used for variable expansion (e.g., `$HOME` to access the home directory).
     - Used for command substitution (e.g., `$(command)`).
 2. **`#`**:
     - Used for comments in scripts. Anything following `#` on a line is ignored by the shell.
