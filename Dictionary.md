@@ -1,11 +1,11 @@
 # Table of contents 
 
- [1. Commands](#1.Commands)
+ [1. Commands](#1.-Commands)
  - [[#Chmod]]
 - [[#Less]]
 - [[## Man]]
 
-[2. Terminologies](#2.Terminologies)
+[2. Terminologies](#2.-Terminologies)
 
 # 1. Commands 
 
