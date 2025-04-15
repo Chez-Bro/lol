@@ -5,7 +5,7 @@
 - [less](#less)
 - [man](#man)
 
-[2. Terminologies](#2-terminologies)
+[2. Terminologies](#2%20terminologies)
 
 # 1. Commands 
 
