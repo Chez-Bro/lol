@@ -1,13 +1,13 @@
 # Table of contents 
 
- [1. Commands](#1.commands)
- - [[#Chmod]]
-- [[#Less]]
-- [[## Man]]
+ [1. Commands](#1.-commands)
+ - [chmod](#chmod)
+- [less](#less)
+- [man](#man)
 
 [2. Terminologies](#2.-terminologies)
 
-# 1.commands 
+# 1. Commands 
 
 ## Chmod
 
