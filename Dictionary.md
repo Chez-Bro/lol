@@ -7,7 +7,7 @@
 
 [2. Terminologies](#2.-terminologies)
 
-# 1. Commands 
+# 1.commands 
 
 ## Chmod
 
