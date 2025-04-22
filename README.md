@@ -1,4 +1,4 @@
-[Lol](04_archwiki.md)
+[Lol](04_ArchWiki.md)
 
 - ***Shell***: A command line program that takes keyboard commands and passes to operating system to carry out.
 
