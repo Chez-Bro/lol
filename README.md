@@ -10,7 +10,7 @@
 
 ---
 
-[end](#endline)
+[end](#end-line)
 
 ---
 
@@ -41,4 +41,4 @@
 10. **`&`**:
     - Runs a command in the background (e.g)
    
-# End_line
+# End line
